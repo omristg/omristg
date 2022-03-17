@@ -12,7 +12,9 @@ I'm Omri Steinberg. I Really enjoy writing code and learning new sutff. I'm a gr
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+     
+     
+![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
