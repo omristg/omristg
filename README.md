@@ -81,6 +81,7 @@ I'm Omri Steinberg. I Really enjoy writing code and learning new sutff. I'm a gr
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40"
             height="40" />
     </a>
+</svg>
 </p>
      
 
