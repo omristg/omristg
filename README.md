@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Omri Steinberg. I Really enjoy writing code and learning new sutff. I'm a graduated of Coding Academy.
 
-#### Languages and technoligies I use:
-<img
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +12,6 @@ I'm Omri Steinberg. I Really enjoy writing code and learning new sutff. I'm a gr
 - ⚡ Fun fact: ...
      
      
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
