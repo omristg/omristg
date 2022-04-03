@@ -11,7 +11,8 @@ I've recently graduated the bootcamp for web development at Coding Academy.
 - I love music and proior to coding I've studied music composition for film at Sapir College
 - I love Photography, especially astrophotography
 
-     
+#### Check out my final project for Coding Academy: 
+<a href="https://payday-app-pro.herokuapp.com/" target="_blank" >PayDay, a clone of Monday app</a>
      
 
 <h3 align="left">Languages and Tools:</h3>
