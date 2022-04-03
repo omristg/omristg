@@ -2,7 +2,9 @@
 I'm Omri. A Fronted / Full Stack Web Developer looking for a job.
 I've recently graduated the bootcamp for web development at Coding Academy.
 
-My main knowledge is building single web applications, utilizing technologies like: React, Vue, Angular, Redux, Sass, MongoDB, Firebase, MySQL, and NodeJS. I had a lot of fun studying at Coding Academy. I'm an autodidact, and I really enjoy studying new things on my own. Nowadays. I'm taking a few courses at Udemy to dive deep into familiar, as well as new topics and technologies in the web development field.
+ - My main knowledge is building single web applications, utilizing technologies like: React, Vue, Angular, Redux, Sass, MongoDB, Firebase, MySQL, and NodeJS.
+ -  I had a lot of fun studying at Coding Academy. I'm an autodidact, and I really enjoy studying new things on my own.
+ -  Nowadays. I'm taking a few courses at Udemy to dive deep into familiar, as well as new topics and technologies in the web development field.
 
 
  ⚡ Fun facts about me: 
